@@ -21,6 +21,10 @@ img {
 	user-select: none;
 }
 
+area {
+	cursor: pointer;
+}
+
 h2 {
 	text-align: center;
 	font-size: 24pt;
